@@ -1,21 +1,6 @@
-{
-<<<<<<< HEAD
-    "version": 2,
-    "builds": [
-      {
-        "src": "backend/server.js",
-        "use": "@vercel/node"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "backend/server.js"
-      }
-    ]
-  }
+
   
-=======
+{
   "version": 2,
   "builds": [
     {
@@ -31,4 +16,4 @@
   ]
 }
 
->>>>>>> 7c3851807f2e7e56df57e4e8111b1fd757b6dfea
+
